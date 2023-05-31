@@ -5,6 +5,10 @@ html {
     margin: 0;
 
 }
+body{
+    color:aliceblue
+}
+
 header {
     background-color: #302f4a;
 
