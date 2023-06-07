@@ -1,4 +1,6 @@
 /*CABEÇALHO E GERAL*/
+@import url(style/banner.css);
+
 html {
     background-color: rgb(47, 45, 67);
     padding: 0;
