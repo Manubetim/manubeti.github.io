@@ -5,19 +5,19 @@
 }
 
 .banner_titulo{
-   font-size:18 px;
+   font-size: 18px;
    font-weight: 700;
-   padding: 2.5m 2 em;
+   padding: 2.5m 2em;
 }
 
 .bannr__texto{
     font-weight: 500;
-    margin: 1 em 0;
+    margin: 1em 0;
 }
 
 .banner_pequisa{
     background-color: tranparnte;
-    border: 1 px solid var(--branco);
+    border: 1px solid var(--branco);
     color: var(--branco);
-    border-radius: 24 px;
+    border-radius: 24px;
 }
