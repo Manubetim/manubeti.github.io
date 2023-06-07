@@ -17,4 +17,7 @@
 
 .banner_pequisa{
     background-color: tranparnte;
+    border: 1 px solid var(--branco);
+    color: var(--branco);
+    border-radius: 24 px;
 }
