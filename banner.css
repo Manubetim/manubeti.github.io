@@ -3,3 +3,14 @@
     color: var(--branco);
     text-align: center;
 }
+
+.banner_titulo{
+   font-size:18 px;
+   font-weight: 700;
+   padding: 2.5m 2 em;
+}
+
+.bannr__texto{
+    font-weight: 500;
+    margin: 1 em 0;
+}
